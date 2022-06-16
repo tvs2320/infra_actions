@@ -1,6 +1,6 @@
 from django import urls
 
-from infra_project.infra_app import views
+from . import views
 
 app_name = 'infra_app'
 
